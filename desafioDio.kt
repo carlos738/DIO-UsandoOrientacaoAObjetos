@@ -73,6 +73,9 @@ fun main() {
         i -> println(i)
     }
     println("Incritos para o Curso: $insc")
+     println("inscritos nos cursos nivel basico node")
+    println("inscritos nos cursos nivel intermediario node")
+    println("inscritos nos cursos nivel avançado node")
 
 
 
