@@ -45,9 +45,7 @@ fun main() {
 
     print("Inscritos para o Curso: $inscritos")
 
-    disciplinas.clear()
-    print("-------------------------------------")
-
+   
     val node = ConteudoEducacional("POO", 60, Nivel.BASICO)
     val tdd = ConteudoEducacional("testes", 45, Nivel.MEDIO)
     val dotnet = ConteudoEducacional("ApiRest", 121, Nivel.AVANÇADO)
